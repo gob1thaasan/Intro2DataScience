@@ -1,7 +1,7 @@
 # INTRODUCTION TO DATA SCIENCE(MDA3003)
 
 
->R.U.Gobithaasan (2022). Fountation of Data Science, Lectures for Undergraduate Degree Program B.Sc (Applied Mathematics), Faculty of Ocean Engineering Technology, University Malaysia Terengganu.
+>R.U.Gobithaasan (2022). Fountation of Data Science, Lectures for Undergraduate Degree Program B.Sc (Data Analytics), Faculty of Ocean Engineering Technology, University Malaysia Terengganu.
 https://sites.google.com/site/gobithaasan/
 
 
